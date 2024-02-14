@@ -97,7 +97,7 @@ fi
 # Fix for Unreal/Unity using x86_64 (Rosetta) on Apple Silicon hardware.
 CMAKE_VARS=
 if [ "$(uname)" == "Darwin" ]; then
-    CMAKE_VARS="-DCMAKE_APPLE_SILICON_PROCESSOR=x86_64"
+    CMAKE_VARS="-DCMAKE_APPLE_SILICON_PROCESSOR=arm64"
 fi
 
 pushd $build_dir  >/dev/null
