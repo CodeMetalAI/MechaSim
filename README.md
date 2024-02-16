@@ -1,4 +1,4 @@
-# Welcome to MechaSim, a successor of [AirSim](https://github.com/microsoft/AirSim) and [Colosseum](https://github.com/CodexLabsLLC/Colosseum)
+# Welcome to MechaSim
   
 ## Build Status
 
