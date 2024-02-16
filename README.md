@@ -1,6 +1,4 @@
 # Welcome to MechaSim
-  
-## Build Status
 
 ## Unreal Engine Version 
 Currently tested with 5.3
