@@ -5,10 +5,20 @@ Currently tested with 5.3
 
 ## Currently Supported Operating Systems
 Below are the list of officially supported Operating Systems, with full Unreal Engine support:
+
+### Build Instructions
+* [Linux](https://microsoft.github.io/AirSim/build_linux/)
+* [Windows](https://microsoft.github.io/AirSim/build_windows/)
+* [MacOS](https://microsoft.github.io/AirSim/build_macos/)
+
+### Blocks
+* [Build Instructions](https://microsoft.github.io/AirSim/unreal_blocks/)
+* Open the level - MultiAgent 
+
 ### Windows
 - Windows 11 (Latest)
 
-### MacOS (Non-M1 Macs only)
+### MacOS 
 - MacOS (14)
   
 ## Sponsors
